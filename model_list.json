@@ -1,0 +1,50 @@
+{
+    "models": [
+        "bilibili-good/Kobayaxi",
+        "bilibili-good/chiaki_kitty",
+        "bilibili-good/chitose",
+        "bilibili-good/date_16",
+        "bilibili-good/Epsilon",
+        "bilibili-good/hallo_16",
+        "bilibili-good/index",
+        "bilibili-good/jin",
+        "bilibili-good/kanzaki",
+        "bilibili-good/kuroko",
+        "bilibili-good/len",
+        "bilibili-good/mikoto",
+        "bilibili-good/ryoufuku",
+        "bilibili-good/saten",
+        "bilibili-good/seifuku",
+        "bilibili-good/shifuku",
+        "bilibili-good/shifuku2",
+        "bilibili-good/stl",
+        "bilibili-good/touma",
+        "bilibili-good/tsumiki",
+        "bilibili-good/uiharu",
+        "bilibili-good/wed_16",
+        "bilibili-good/blanc_classic",
+        "bilibili-good/miku/assets",
+        "bilibili-good/z16/assets",
+        "bilibili-good/unitychan/assets",
+        "bilibili-good/tororo/assets",
+
+
+
+
+        [
+            "ShizukuTalk/shizuku-48",
+            "ShizukuTalk/shizuku-pajama"
+        ],
+      
+        "KantaiCollection/murakumo"
+    ],
+    "messages": [
+        "来自 Potion Maker 的 Pio 酱 ~",
+        "来自 Potion Maker 的 Tia 酱 ~",
+        "来自 Bilibili Live 的 22 哦 ~",
+        "来自 Bilibili Live 的 33 的说",
+        "Shizuku Talk ！这里是 Shizuku ~",
+        "Nep! Nep! 超次元游戏：海王星 系列",
+        "艦隊これくしょん / 叢雲(むらくも)"
+    ]
+}
